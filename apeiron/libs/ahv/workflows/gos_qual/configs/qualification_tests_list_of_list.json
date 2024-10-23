@@ -1,0 +1,7 @@
+{
+  "common_testsuite": [
+    ["cdrom_legacy_boot"],
+    ["cdrom_uefi_boot"],
+    ["cdrom_secure_boot"]
+  ]
+}
