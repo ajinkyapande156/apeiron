@@ -1,0 +1,9 @@
+{
+  "post_upgrade": {
+    "frodo": {
+      "p0": [
+        "Frodo_BVT_Tests_Pipeline"
+      ]
+    }
+  }
+}

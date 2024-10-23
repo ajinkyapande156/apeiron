@@ -1,0 +1,11 @@
+{
+  "common_testsuite": [
+    {
+      "name": "cdrom_legacy_boot",
+      "params": {
+        "machine_type": "q35"
+      },
+      "post_ops": ["verify_os_boot", "rhcert_prepare_setup"]
+    }
+  ]
+}
