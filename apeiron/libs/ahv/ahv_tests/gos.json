@@ -1,9 +1,0 @@
-{
-  "post_upgrade": {
-    "gos_qual": {
-      "p1": [
-        "GOS_BVT_Pipeline"
-      ]
-    }
-  }
-}

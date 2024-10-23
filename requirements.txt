@@ -1,3 +1,0 @@
---trusted-host endor.dyn.nutanix.com --extra-index-url http://endor.dyn.nutanix.com/builds/nutest-py3/wheels/master/commits/
-nutestframework==latest
-
